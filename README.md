@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://raw.githubusercontent.com/icepie/icepie/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/icepie)
- [![](https://raw.githubusercontent.com/icepie/icepie/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/icepie)
+[![](https://raw.githubusercontent.com/icepie/icepie/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/icepie)
+ [![](https://raw.githubusercontent.com/icepie/icepie/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/icepie)
 
 
 - 🔭 I’m currently working on IoT development
