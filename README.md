@@ -24,10 +24,14 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on IoT development
-- 🌱 I’m currently learning and use ...
+- 🌱 I’m currently using ...
 
+[![](https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=arch%20linux&logoColor=ffffff)](https://archlinux.org/)
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://blog.daliansky.net/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/Dokcer-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
 
 - 📫 How to reach me:
 
