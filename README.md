@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm icepie
 
 <!--
-**kmou424/kmou424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**icepie/icepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=arch%20linux&logoColor=ffffff)](https://archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://blog.daliansky.net/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
