@@ -37,3 +37,20 @@ Here are some ideas to get you started:
 
 [![](https://chat.getloli.com/room/@icepie.github/svg?width=600&height=280&limit=20&theme=light&title=icepie@github:%20~&fontSize=13)](https://chat.getloli.com/room/@icepie.github?title=icepie%27s%20message%20board)
 
+
+
+<!--START_SECTION:waka-->
+
+```text
+From: 18 May 2023 - To: 25 May 2023
+
+Total Time: 12 hrs 39 mins
+
+TypeScript   9 hrs 27 mins   ██████████████████▓░░░░░░   74.75 %
+JavaScript   1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+JSON         1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Solidity     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+TSConfig     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+```
+
+<!--END_SECTION:waka-->
