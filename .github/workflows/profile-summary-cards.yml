@@ -1,21 +1,24 @@
-name: GitHub-Profile-Summary-Cards
+name: CI
 
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
 on:
   push:
-    branches: master
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
-  workflow_dispatch:
+    branches: [ master ]
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
 
 jobs:
-  build:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
-    name: generate
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: athul/waka-readme@master
         with:
-          USERNAME: ${{ github.repository_owner }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: false
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
