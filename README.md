@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 ```text
 From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 12 hrs 39 mins
+Total Time: 0 secs
 
-TypeScript   9 hrs 27 mins   ██████████████████▓░░░░░░   74.75 %
-JavaScript   1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-JSON         1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Solidity     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-TSConfig     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
