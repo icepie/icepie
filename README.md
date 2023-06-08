@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 06 June 2023
+From: 31 May 2023 - To: 07 June 2023
 
-Total Time: 54 hrs 20 mins
+Total Time: 53 hrs 11 mins
 
-Other        31 hrs 31 mins  ██████████████▓░░░░░░░░░░   58.01 %
-Go           20 hrs 34 mins  █████████▒░░░░░░░░░░░░░░░   37.86 %
-C#           58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Bash         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Other        31 hrs 14 mins  ██████████████▓░░░░░░░░░░   58.72 %
+Go           19 hrs 49 mins  █████████▒░░░░░░░░░░░░░░░   37.26 %
+C#           58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Bash         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
