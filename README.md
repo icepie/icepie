@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
-Total Time: 27 hrs 10 mins
+Total Time: 27 hrs 42 mins
 
-Go           25 hrs 41 mins  ███████████████████████▓░   94.54 %
-Other        59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Go           25 hrs 37 mins  ███████████████████████░░   92.47 %
+Other        1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
