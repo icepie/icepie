@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-Total Time: 38 hrs 41 mins
+Total Time: 39 hrs
 
-Go             22 hrs 43 mins  ██████████████▓░░░░░░░░░░   58.71 %
-GDScript       6 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-TOML           1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Vue.js         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-ActionScript   1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Go             22 hrs 43 mins  ██████████████▓░░░░░░░░░░   58.23 %
+GDScript       6 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
+Other          1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+TOML           1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Vue.js         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
