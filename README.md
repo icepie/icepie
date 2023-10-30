@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2023 - To: 28 October 2023
+From: 22 October 2023 - To: 29 October 2023
 
-Total Time: 57 hrs 32 mins
+Total Time: 53 hrs 14 mins
 
-Other            34 hrs 41 mins  ███████████████░░░░░░░░░░   60.31 %
-Go               15 hrs 12 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
-Bash             2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Vue.js           1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-C                52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other            30 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.10 %
+Go               15 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   28.37 %
+Bash             2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Vue.js           1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+C                50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
