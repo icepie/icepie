@@ -42,11 +42,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Total Time: 5 mins
+Total Time: 51 mins
 
-Makefile   5 mins          █████████████████████████   100.00 %
+Go         45 mins         ██████████████████████░░░   88.26 %
+Makefile   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
 ```
 
 <!--END_SECTION:waka-->
