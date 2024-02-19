@@ -42,12 +42,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-Total Time: 1 hr 4 mins
+Total Time: 3 hrs 8 mins
 
-Go         1 hr 4 mins     █████████████████████████   99.73 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other      2 hrs 3 mins    ████████████████▒░░░░░░░░   65.80 %
+Go         1 hr 4 mins     ████████▓░░░░░░░░░░░░░░░░   34.11 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
