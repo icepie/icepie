@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2024 - To: 26 February 2024
+From: 20 February 2024 - To: 27 February 2024
 
-Total Time: 22 hrs 28 mins
+Total Time: 16 hrs 28 mins
 
-Other        11 hrs 18 mins  ████████████▓░░░░░░░░░░░░   50.26 %
-Go           8 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
-C#           44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Lua          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other        9 hrs 43 mins   ██████████████▓░░░░░░░░░░   59.06 %
+Go           4 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+C#           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+TOML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
