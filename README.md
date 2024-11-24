@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
-Total Time: 8 hrs 23 mins
+Total Time: 7 hrs 59 mins
 
-Other   8 hrs 23 mins   █████████████████████████   100.00 %
+Other   7 hrs 59 mins   █████████████████████████   100.00 %
 JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
