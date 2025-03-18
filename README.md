@@ -42,11 +42,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 56 mins
 
-Other   0 secs          █████████████████████████   100.00 %
+Markdown           1 hr 25 mins    ██████████████████▒░░░░░░   72.82 %
+Other              27 mins         ██████░░░░░░░░░░░░░░░░░░░   23.52 %
+Jupyter Notebook   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Go                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
