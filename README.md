@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2025 - To: 21 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Total Time: 1 hr 38 mins
+Total Time: 2 hrs 6 mins
 
-Markdown   51 mins         █████████████░░░░░░░░░░░░   52.63 %
-Other      46 mins         ████████████░░░░░░░░░░░░░   47.37 %
+Markdown   1 hr 7 mins     █████████████▒░░░░░░░░░░░   53.55 %
+Other      58 mins         ███████████▓░░░░░░░░░░░░░   46.45 %
 ```
 
 <!--END_SECTION:waka-->
