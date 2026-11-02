@@ -36,17 +36,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
 [![](https://chat.getloli.com/room/@icepie.github/svg?width=600&height=280&limit=20&theme=light&title=icepie@github:%20~&fontSize=13)](https://chat.getloli.com/room/@icepie.github?title=icepie%27s%20message%20board)
-
-
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
